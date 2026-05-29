@@ -1,2 +1,2 @@
-Website for DroneScope Media
+Website for DroneScope Media Part 2 - Part 2 is were we used CSS external to make chnages to the website by adding functions colour , style etc to make the website much better 
 DroneScope Media is a start-up digital media business based in Lenasia, Johannesburg. The business specialises in drone photography and videography, offering aerial visuals for events, real estate, and promotional content. The idea behind the business is to provide modern and creative media solutions using drone technology, which allows for unique camera angles and high-quality visuals.
